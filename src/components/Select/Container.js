@@ -8,6 +8,7 @@ const Container = styled.div`
   align-items: flex-end;
   margin-top: 23px;
   width: 221px;
+  position: relative;
 `;
 
 export default Container;

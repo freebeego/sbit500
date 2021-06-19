@@ -8,6 +8,12 @@ const Option = styled.li`
   letter-spacing: 0.44px;
   background-color: #fff;
   height: 50px;
+  box-sizing: border-box;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+
+  &:last-of-type {
+    border-bottom: none;
+  }
 `;
 
 export default Option;
