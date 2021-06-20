@@ -1,4 +1,4 @@
-const BASE_API_URL = 'http://api.sbit500.pro/api';
+const BASE_API_URL = 'https://api.sbit500.pro/api';
 
 const users = [
   { id: '1', name: 'Пользователь 1' },
